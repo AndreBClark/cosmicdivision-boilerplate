@@ -1,0 +1,8 @@
+/* purgecss ignore start */
+
+@tailwind base;
+
+/* purgecss ignore end */
+
+@tailwind utilities;
+@import-glob './core/**/*';
