@@ -22,13 +22,7 @@
         "url": "https://github.com/AndreBClark/dndroller/issues"
     },
     "homepage": "https://github.com/AndreBClark/dndroller# readme ",
-    "alias": {
-        "react": "preact/compat",
-        "react-dom/test-utils": "preact/test-utils",
-        "react-dom": "preact/compat"
-    },
     "dependencies": {
-        "postcss-import-ext-glob": "^1.1.0",
         "tailwindcss": "^1.2.0"
     },
     "devDependencies": {
