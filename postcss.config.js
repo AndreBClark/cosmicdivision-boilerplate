@@ -8,7 +8,6 @@ const cssnano = require('cssnano')('cssnane-advanced-preset');
 
 module.exports = {
     "plugins": [
-        require('postcss-import-ext-glob'),
         require("postcss-import"),
         require('stylelint')('./stylelint.config.js'),
         require('autoprefixer'),

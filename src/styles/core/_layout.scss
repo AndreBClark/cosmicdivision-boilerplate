@@ -1,0 +1,15 @@
+body {
+    @apply h-screen flex flex-col;
+}
+
+header {
+    @apply h-64 p-24 bg-gray-500;
+}
+
+main {
+    @apply max-w-6xl mx-auto py-5;
+}
+
+footer {
+    @apply mt-auto text-center;
+}
