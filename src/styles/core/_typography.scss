@@ -15,15 +15,15 @@ h3,
 
 h4,
 .h4 {
-    @apply text-xl;
+    @apply text-xl font-light;
 }
 
 h5,
 .h5 {
-    @apply text-lg;
+    @apply text-lg font-bold;
 }
 
 h6,
 .h6 {
-    @apply text-base;
+    @apply text-base font-light;
 }
